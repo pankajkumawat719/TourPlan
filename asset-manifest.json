@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pankajkumawat719/TourPlan.git/static/css/main.7189f810.css",
+    "main.js": "/pankajkumawat719/TourPlan.git/static/js/main.3711d662.js",
+    "index.html": "/pankajkumawat719/TourPlan.git/index.html",
+    "main.7189f810.css.map": "/pankajkumawat719/TourPlan.git/static/css/main.7189f810.css.map",
+    "main.3711d662.js.map": "/pankajkumawat719/TourPlan.git/static/js/main.3711d662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7189f810.css",
+    "static/js/main.3711d662.js"
+  ]
+}
